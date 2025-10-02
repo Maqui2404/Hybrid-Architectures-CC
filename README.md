@@ -1,1 +1,1 @@
-# Hybrid-Architectures-CLEI-CHILECON
+# Hybrid-Architectures-CC
